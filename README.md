@@ -1,4 +1,20 @@
-## Hi there 👋
+# 🌟 Hi, I'm Yenting!  
+
+🎓 **CSIE Senior Student @ NTU**, interested in **Machine Learning**, **NLP**, **Large Language Model** and **Web Apps**.   
+🚀 Incoming NTU Master's student, aiming to advance **Large Language Models** and **AI research**.  
+
+---
+
+## 🛠️ Skills  
+
+- **Languages**: Python, JavaScript, TypeScript, C, C++
+- **Frameworks**: PyTorch, Hugging Face, Next.js, React.js
+- **Focus**: Deep Learning, NLP, LLM
+
+---
+
+
+Thanks for visiting! Let’s connect and build amazing things together!  
 
 <!--
 **yenting-biao/yenting-biao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
