@@ -1,7 +1,6 @@
 # 🌟 Hi, I'm Yenting!  
 
-🎓 **CSIE Senior Student @ NTU**, interested in **Machine Learning**, **NLP**, **Large Language Model** and **Web Apps**.   
-🚀 Incoming NTU Master's student, aiming to advance **Large Language Models** and **AI research**.  
+🎓 **Graduate Student @ NTU CSIE**, interested in **Machine Learning**, **NLP**, **Large Language Model** and **Web Apps**.   
 
 ---
 
